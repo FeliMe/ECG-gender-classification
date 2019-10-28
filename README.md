@@ -7,7 +7,7 @@ This repository contains the code to train a convolutional neural network to cla
 Clone the repository and install the project and its dependencies. 
 Numpy needs to be installed first because it is required by pyedflib.
 
-    git clone https://gitlab.abla.cloud/ecg-gender-classification.git
+    git clone https://github.com/FeliMe/ECG-gender-classification.git
     pip install numpy
     pip install -r requirements.txt
 
