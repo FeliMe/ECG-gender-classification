@@ -1,0 +1,13 @@
+# Ignore all subdirectories of /data/ but keep files
+/data/*/
+/saves/**
+/tensorboard_log/**
+
+*/**/__pycache__
+*/**/.DS_Store
+
+\.idea/
+
+*.directory
+
+!*.gitkeep
